@@ -30,6 +30,9 @@
 ## 결과
 https://colab.research.google.com/drive/190WKbVDdVgLsOu1aW9dDWNu1dEB1i30y
 
+
+![다운로드 (2)](https://user-images.githubusercontent.com/106312483/200495626-658b8ee2-5927-481d-8689-d8176cff7393.png)
+
 ![image](https://user-images.githubusercontent.com/106312483/200480697-5aedf3d6-0cc6-4350-a6d6-41936d5a31ed.png)
 
 
