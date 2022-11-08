@@ -20,8 +20,9 @@
 <br></br>
 
 
-## 사용한 사이트
+## 사용한 사이트(아직 정리중입니다!)
 https://www.remove.bg/ko - 이미지 누끼 사이트
+  </br>
 https://convertio.co/kr/ - 파일 변환 사이트(otf 파일을 ttf 파일로 변환해 사용)
 
 
