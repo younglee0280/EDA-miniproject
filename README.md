@@ -20,10 +20,15 @@
 <br></br>
 
 
-## 사용한 사이트(아직 정리중입니다!)
+## 사용한 사이트(아직 정리중입니다!) 및 참고 이미지
 https://www.remove.bg/ko - 이미지 누끼 사이트
   </br>
 https://convertio.co/kr/ - 파일 변환 사이트(otf 파일을 ttf 파일로 변환해 사용)
+  </br>
+ 
+**stylecode 패키지를 사용했을 때의 결과물 예시 
+</br>![다운로드 (1)](https://user-images.githubusercontent.com/106312483/200857378-78156f79-d435-44c7-bf78-8bfe5ff79c41.png) </br>
+출처:https://aplab.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9D%B4%EC%81%98%EA%B2%8C-%EA%B7%B8%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80
 
 
 <br></br>
